@@ -42,5 +42,10 @@
             android:drawableLeft="@drawable/sticker_3rdparty_privacy"
             android:drawableStart="@drawable/sticker_3rdparty_privacy"
             android:text="@string/privacy_policy" />
+
+        <TextView
+            android:id="@+id/info"
+            style="@style/InfoButtonStyle"
+            android:text="Icon made by Freepik from www.flaticon.com" />
     </LinearLayout>
 </LinearLayout>

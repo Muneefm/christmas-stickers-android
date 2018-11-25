@@ -19,7 +19,7 @@ public class StickerApplication extends Application {
     public void onCreate() {
         super.onCreate();
         Fresco.initialize(this);
-        MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713");
+        MobileAds.initialize(this, "ca-app-pub-7269223551241818~2025130059");
 
     }
 }
