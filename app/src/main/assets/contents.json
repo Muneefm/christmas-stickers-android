@@ -1,0 +1,79 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=christmas.sticker.whatsapp",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "2",
+      "name": "Christmas",
+      "publisher": "Santa claus",
+      "tray_image_file": "logo.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "merry-christmas.webp"
+        },
+
+        {
+          "image_file": "ball.webp"
+        },
+
+        {
+          "image_file": "christmas-tree-1.webp"
+        },
+        {
+          "image_file": "christmas-tree.webp"
+        },
+        {
+          "image_file": "giftbox.webp"
+        },
+        {
+          "image_file": "santa-1.webp"
+        },
+        {
+          "image_file": "santa-2.webp"
+        },
+        {
+          "image_file": "santa-3.webp"
+        },
+        {
+          "image_file": "santa-4.webp"
+        },
+        {
+          "image_file": "mistletoe.webp"
+        },
+
+        {
+          "image_file": "reindeer.webp"
+        },
+        {
+          "image_file": "santa-claus.webp"
+        },
+
+        {
+          "image_file": "santa-claus-1.webp"
+        },
+        {
+          "image_file": "snow-globe.webp"
+        },
+        {
+          "image_file": "snowflake.webp"
+        },
+        {
+          "image_file": "snowman.webp"
+        },
+        {
+          "image_file": "sweet.webp"
+        },
+        {
+          "image_file": "tree.webp"
+        }
+
+
+
+      ]
+    }
+  ]
+}

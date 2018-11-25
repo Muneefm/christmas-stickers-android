@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "509043325647",
+    "firebase_url": "https://whatsapp-stickerapp.firebaseio.com",
+    "project_id": "whatsapp-stickerapp",
+    "storage_bucket": "whatsapp-stickerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509043325647:android:41e0b2044782c414",
+        "android_client_info": {
+          "package_name": "christmas.sticker.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509043325647-732ae7ckehoneba04a3gopvnd4qr4snd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "christmas.sticker.whatsapp",
+            "certificate_hash": "b1ec989ec7cc1adaa97a55c3f1abcb77dce26ebe"
+          }
+        },
+        {
+          "client_id": "509043325647-0sptggd7pvhdimejkenlrjo7kmkspvjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMI9Poke0moecwX3a7P6VO4nQh-5eEtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509043325647-0sptggd7pvhdimejkenlrjo7kmkspvjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
